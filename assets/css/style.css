@@ -444,7 +444,7 @@ header {
     li,
     a {
       flex-direction: column;
-      align-content: space-around;
+      /* align-content: space-around; */
       justify-content: center;
       align-items: center;
     }
