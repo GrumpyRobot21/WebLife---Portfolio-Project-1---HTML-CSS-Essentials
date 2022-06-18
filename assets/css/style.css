@@ -83,3 +83,38 @@ header {
   display: inline-block;
   padding: 0px 20px;
 }
+
+/* hero section content styling */
+
+.hero {
+    cursor: pointer;
+    background-color: #1e5c71;
+    background-image: url("../images/tech-officesml.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    height: 50vh;
+    padding: 1em;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .intro {
+    cursor: pointer;
+    background-color: white;
+    color: #1e5c71;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 10%;
+  }
+  
+  .intro h2,
+  .intro p,
+  .serve h2,
+  .serve p {
+    padding: 1em;
+  }
