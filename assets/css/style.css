@@ -239,3 +239,117 @@ header {
     justify-content: center;
     align-items: center;
   }
+
+  /* About page button styling */
+
+.consult {
+    cursor: pointer;
+    margin: 20px 0;
+    border: solid 1px white;
+    background-color: #1e5c71;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    padding: 10px;
+    transition: 0.4s ease-in-out;
+  }
+  
+  .consult:hover {
+    background-color: white;
+    color: #1e5c71;
+    border: 1px solid #1e5c71;
+    box-shadow: inset 100px 0 0 0 white;
+  }
+
+  /* Contact page styling */
+
+.contact-form {
+    font-family: poppins, sans-serif;
+    cursor: pointer;
+    background-color: #1e5c71;
+    background-image: url("../images/group_meeting.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: white;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 2%;
+  }
+  
+  .contact-form .form-content {
+    font-family: poppins, sans-serif;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+  }
+  
+  .contact-form .form-content p {
+    font-family: poppins, sans-serif;
+    cursor: pointer;
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3%;
+    color: white;
+    letter-spacing: 3px;
+  }
+
+  /* Form input styling and content management */
+
+  .form-info i.fa {
+    font-family: poppins, sans-serif;
+    cursor: pointer;
+    font-size: 22px;
+    padding: 3%;
+    background-color: none;
+    border-radius: 80%;
+    margin: 2%;
+    cursor: pointer;
+    border: 2px solid white;
+    color: white;
+  }
+  
+  .form-info i.fa:hover {
+    cursor: pointer;
+    border: 2px solid white;
+    color: white;
+  }
+  
+  .form-info,
+  #formhead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+  }
+  
+  .form-style input {
+    font-family: poppins, sans-serif;
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    background-color: rgba(142, 191, 213, 0.5);
+    color: white;
+    border: none;
+  }
+  
+  .form-style input::placeholder {
+    color: white;
+  }
+  
+  textarea {
+    font-family: poppins, sans-serif;
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    background-color: rgba(142, 191, 213, 0.5);
+    color: white;
+    border: none;
+  }
+  textarea::placeholder {
+    color: white;
+  }
