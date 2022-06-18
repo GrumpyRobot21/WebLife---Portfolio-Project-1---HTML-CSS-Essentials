@@ -195,3 +195,47 @@ header {
   .social-networks i:hover {
     transform: scale(2);
   }
+
+  /* About page div and container styling */
+
+.backimg {
+    background-color: #1e5c71;
+    background-image: url("../images/busy-officesml.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  
+  .sec {
+    cursor: pointer;
+    color: white;
+  }
+  
+  .imag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .pic {
+    border: 2px solid white;
+    border-radius: 1%;
+  }
+  
+  .split {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+  }
+  
+  .button1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
