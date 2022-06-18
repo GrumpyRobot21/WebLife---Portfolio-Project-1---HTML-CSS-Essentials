@@ -408,4 +408,24 @@ header {
     color: white;
   }
 
+  /* Thank you page action button */
+
+  .return {
+    cursor: pointer;
+    margin: 20px 0;
+    border: solid 1px white;
+    background-color: #1e5c71;
+    color: white;
+    font-size: 1rem;
+    border-radius: 10px;
+    padding: 10px;
+    transition: 0.4s ease-in-out;
+  }
   
+  .return:hover {
+    background-color: white;
+    color: #1e5c71;
+    border: 1px solid #1e5c71;
+    box-shadow: inset 100px 0 0 0 white;
+  }
+
