@@ -380,3 +380,32 @@ header {
     border: 1px solid #1e5c71;
     box-shadow: inset 100px 0 0 0 white;
   }
+
+  /* thank you page styling */
+
+.thanks {
+    cursor: pointer;
+    background-color: #1e5c71;
+    background-image: url("../images/coders.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .thanks h1,
+  .thanks p {
+    padding: 5em;
+  }
+  
+  #thanksp {
+    font-family: poppins, sans-serif;
+    width: 70%;
+    color: white;
+  }
+
+  
