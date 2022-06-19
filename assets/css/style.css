@@ -1,36 +1,36 @@
-/* imported google font style */
+/* Imported google font style */
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
-/* universal style settings */
+/* Universal style settings */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
-/* accessability skip navigation bar styling for keyboard navigation users. Code tuition provided by Kevin Powell https://www.youtube.com/watch?v=jDDaOFr9nqQ */
+/* Accessability skip navigation bar styling for keyboard navigation users. Code tuition provided by Kevin Powell https://www.youtube.com/watch?v=jDDaOFr9nqQ */
 
 html {
-    scroll-behavior: smooth;
-  }
-  
-  .skip-nav {
-    background-color: #1e5c71;
-    color: white;
-    font-family: poppins, sans-serif;
-    text-decoration: none;
-    padding: 0.45rem 0.5rem;
-    border-radius: 0 0 0.25rem 0.25rem;
-    left: 0.5rem;
-    position: absolute;
-    transform: translateY(-120%);
-    transition: transform 325ms ease-in;
-  }
-  
-  .skip-nav:focus {
-    transform: translateY(0);
-  }
-  
+  scroll-behavior: smooth;
+}
+
+.skip-nav {
+  background-color: #1e5c71;
+  color: white;
+  font-family: poppins, sans-serif;
+  text-decoration: none;
+  padding: 0.45rem 0.5rem;
+  border-radius: 0 0 0.25rem 0.25rem;
+  left: 0.5rem;
+  position: absolute;
+  transform: translateY(-120%);
+  transition: transform 325ms ease-in;
+}
+
+.skip-nav:focus {
+  transform: translateY(0);
+}
+
 /* Navbar button and logo styling */
 h1,
 h2,
@@ -84,403 +84,402 @@ header {
   padding: 0px 20px;
 }
 
-/* hero section content styling */
+/* Hero section content styling */
 
 .hero {
-    cursor: pointer;
-    background-color: #1e5c71;
-    background-image: url("../images/tech-officesml.jpg");
-    background-blend-mode: multiply;
-    background-size: cover;
-    height: 50vh;
-    padding: 1em;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .intro {
-    cursor: pointer;
-    background-color: white;
-    color: #1e5c71;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 30px 10%;
-  }
-  
-  .intro h2,
-  .intro p,
-  .serve h2,
-  .serve p {
-    padding: 1em;
-  }
+  cursor: pointer;
+  background-color: #1e5c71;
+  background-image: url("../images/tech-officesml.jpg");
+  background-blend-mode: multiply;
+  background-size: cover;
+  height: 50vh;
+  padding: 1em;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 
-  .services {
-    cursor: pointer;
-    padding: 4vh 0;
-    text-align: center;
-    background-color: white;
-    color: #1e5c71;
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-  }
-  
-  .serve {
-    cursor: pointer;
-    flex-basis: 30%;
-  }
+.intro {
+  cursor: pointer;
+  background-color: white;
+  color: #1e5c71;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 10%;
+}
 
-  /* Index.html action button styling */
-  
-  .action {
-    cursor: pointer;
-    background-color: white;
-    display: flex;
-    flex-basis: 30%;
-    justify-content: center;
-  }
-  
-  .info {
-    cursor: pointer;
-    margin: 20px 0;
-    border: solid 1px white;
-    background-color: #1e5c71;
-    color: white;
-    font-size: 25px;
-    border-radius: 10px;
-    padding: 15px;
-    display: flex;
-    justify-content: center;
-    transition: 0.4s ease-in-out;
-  }
-  
-  .info:hover {
-    background-color: white;
-    color: #1e5c71;
-    border: 1px solid #1e5c71;
-    box-shadow: inset 100px 0 0 0 white;
-  }
+.intro h2,
+.intro p,
+.serve h2,
+.serve p {
+  padding: 1em;
+}
 
-  /*  footer section and social media icon styling */
+.services {
+  cursor: pointer;
+  padding: 4vh 0;
+  text-align: center;
+  background-color: white;
+  color: #1e5c71;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
 
-  footer {
-    background-color: #1e5c71;
-  }
-  
-  .footpar {
-    cursor: pointer;
-    background-color: #1e5c71;
-    display: flex;
-    justify-content: center;
-    font-size: smaller;
-    color: white;
-    margin: 0 2vh;
-  }
-  
-  .social-networks {
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    margin: auto;
-    list-style: none;
-  }
-  
-  .social-networks i {
-    font-size: 125%;
-    padding: 1.5em;
-    color: white;
-  }
-  
-  .social-networks i:hover {
-    transform: scale(2);
-  }
+.serve {
+  cursor: pointer;
+  flex-basis: 30%;
+}
 
-  /* About page div and container styling */
+/* Index.html action button styling */
+
+.action {
+  cursor: pointer;
+  background-color: white;
+  display: flex;
+  flex-basis: 30%;
+  justify-content: center;
+}
+
+.info {
+  cursor: pointer;
+  margin: 20px 0;
+  border: solid 1px white;
+  background-color: #1e5c71;
+  color: white;
+  font-size: 25px;
+  border-radius: 10px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  transition: 0.4s ease-in-out;
+}
+
+.info:hover {
+  background-color: white;
+  color: #1e5c71;
+  border: 1px solid #1e5c71;
+  box-shadow: inset 100px 0 0 0 white;
+}
+
+/* Footer section and social media icon styling */
+
+footer {
+  background-color: #1e5c71;
+}
+
+.footpar {
+  cursor: pointer;
+  background-color: #1e5c71;
+  display: flex;
+  justify-content: center;
+  font-size: smaller;
+  color: white;
+  margin: 0 2vh;
+}
+
+.social-networks {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  list-style: none;
+}
+
+.social-networks i {
+  font-size: 125%;
+  padding: 1.5em;
+  color: white;
+}
+
+.social-networks i:hover {
+  transform: scale(2);
+}
+
+/* About page div and container styling */
 
 .backimg {
-    background-color: #1e5c71;
-    background-image: url("../images/busy-officesml.jpg");
-    background-size: cover;
-    background-blend-mode: multiply;
-    height: 100%;
-    width: 100%;
-  }
-  
-  h1 {
-    text-align: center;
-    color: white;
-  }
-  
-  .sec {
-    cursor: pointer;
-    color: white;
-  }
-  
-  .imag {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .pic {
-    border: 2px solid white;
-    border-radius: 1%;
-  }
-  
-  .split {
-    display: flex;
-    flex-direction: column;
-    padding: 1em;
-  }
-  
-  .button1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+  background-color: #1e5c71;
+  background-image: url("../images/busy-officesml.jpg");
+  background-size: cover;
+  background-blend-mode: multiply;
+  height: 100%;
+  width: 100%;
+}
 
-  /* About page action button styling */
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.sec {
+  cursor: pointer;
+  color: white;
+}
+
+.imag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pic {
+  border: 2px solid white;
+  border-radius: 1%;
+}
+
+.split {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+}
+
+.button1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* About page action button styling */
 
 .consult {
-    cursor: pointer;
-    margin: 20px 0;
-    border: solid 1px white;
-    background-color: #1e5c71;
-    color: white;
-    font-size: 1.5rem;
-    border-radius: 10px;
-    padding: 10px;
-    transition: 0.4s ease-in-out;
-  }
-  
-  .consult:hover {
-    background-color: white;
-    color: #1e5c71;
-    border: 1px solid #1e5c71;
-    box-shadow: inset 100px 0 0 0 white;
-  }
+  cursor: pointer;
+  margin: 20px 0;
+  border: solid 1px white;
+  background-color: #1e5c71;
+  color: white;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  padding: 10px;
+  transition: 0.4s ease-in-out;
+}
 
-  /* Contact page styling */
+.consult:hover {
+  background-color: white;
+  color: #1e5c71;
+  border: 1px solid #1e5c71;
+  box-shadow: inset 100px 0 0 0 white;
+}
+
+/* Contact page styling */
 
 .contact-form {
-    font-family: poppins, sans-serif;
-    cursor: pointer;
-    background-color: #1e5c71;
-    background-image: url("../images/group_meeting.jpg");
-    background-size: cover;
-    background-blend-mode: multiply;
-    color: white;
-    height: 100%;
-    width: 100%;
-    padding-bottom: 2%;
-  }
-  
-  .contact-form .form-content {
-    font-family: poppins, sans-serif;
-    cursor: pointer;
-    text-align: center;
-    color: white;
-    letter-spacing: 2px;
-  }
-  
-  .contact-form .form-content p {
-    font-family: poppins, sans-serif;
-    cursor: pointer;
-    text-align: center;
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 3%;
-    color: white;
-    letter-spacing: 3px;
-  }
+  font-family: poppins, sans-serif;
+  cursor: pointer;
+  background-color: #1e5c71;
+  background-image: url("../images/group_meeting.jpg");
+  background-size: cover;
+  background-blend-mode: multiply;
+  color: white;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 2%;
+}
 
-  /* Form input styling and content management */
+.contact-form .form-content {
+  font-family: poppins, sans-serif;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  letter-spacing: 2px;
+}
 
-  .form-info i.fa {
-    font-family: poppins, sans-serif;
-    cursor: pointer;
-    font-size: 22px;
-    padding: 3%;
-    background-color: none;
-    border-radius: 80%;
-    margin: 2%;
-    cursor: pointer;
-    border: 2px solid white;
-    color: white;
-  }
-  
-  .form-info i.fa:hover {
-    cursor: pointer;
-    border: 2px solid white;
-    color: white;
-  }
-  
-  .form-info,
-  #formhead {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 1em;
-  }
-  
-  .form-style input {
-    font-family: poppins, sans-serif;
-    cursor: pointer;
-    padding: 10px;
-    margin: 10px;
-    width: 100%;
-    background-color: rgba(142, 191, 213, 0.5);
-    color: white;
-    border: none;
-  }
-  
-  .form-style input::placeholder {
-    color: white;
-  }
-  
-  textarea {
-    font-family: poppins, sans-serif;
-    cursor: pointer;
-    padding: 10px;
-    margin: 10px;
-    width: 100%;
-    background-color: rgba(142, 191, 213, 0.5);
-    color: white;
-    border: none;
-  }
-  textarea::placeholder {
-    color: white;
-  }
+.contact-form .form-content p {
+  font-family: poppins, sans-serif;
+  cursor: pointer;
+  text-align: center;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 3%;
+  color: white;
+  letter-spacing: 3px;
+}
 
-  /* Contact page action button */
+/* Form input styling and content management */
 
-  #butt1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .send {
-    cursor: pointer;
-    margin: 20px 0;
-    border: solid 1px white;
-    background-color: #1e5c71;
-    color: white;
-    font-size: 1.5rem;
-    border-radius: 10px;
-    padding: 10px;
-    transition: 0.4s ease-in-out;
-  }
-  
-  .send:hover {
-    background-color: white;
-    color: #1e5c71;
-    border: 1px solid #1e5c71;
-    box-shadow: inset 100px 0 0 0 white;
-  }
+.form-info i.fa {
+  font-family: poppins, sans-serif;
+  cursor: pointer;
+  font-size: 22px;
+  padding: 3%;
+  background-color: none;
+  border-radius: 80%;
+  margin: 2%;
+  cursor: pointer;
+  border: 2px solid white;
+  color: white;
+}
 
-  /* thank you page styling */
+.form-info i.fa:hover {
+  cursor: pointer;
+  border: 2px solid white;
+  color: white;
+}
+
+.form-info,
+#formhead {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+}
+
+.form-style input {
+  font-family: poppins, sans-serif;
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  background-color: rgba(142, 191, 213, 0.5);
+  color: white;
+  border: none;
+}
+
+.form-style input::placeholder {
+  color: white;
+}
+
+textarea {
+  font-family: poppins, sans-serif;
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  background-color: rgba(142, 191, 213, 0.5);
+  color: white;
+  border: none;
+}
+
+textarea::placeholder {
+  color: white;
+}
+
+/* Contact page action button */
+
+#butt1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.send {
+  cursor: pointer;
+  margin: 20px 0;
+  border: solid 1px white;
+  background-color: #1e5c71;
+  color: white;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  padding: 10px;
+  transition: 0.4s ease-in-out;
+}
+
+.send:hover {
+  background-color: white;
+  color: #1e5c71;
+  border: 1px solid #1e5c71;
+  box-shadow: inset 100px 0 0 0 white;
+}
+
+/* Thank you page styling */
 
 .thanks {
-    cursor: pointer;
-    background-color: #1e5c71;
-    background-image: url("../images/coders.jpg");
-    background-size: cover;
-    background-blend-mode: multiply;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  cursor: pointer;
+  background-color: #1e5c71;
+  background-image: url("../images/coders.jpg");
+  background-size: cover;
+  background-blend-mode: multiply;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.thanks h1,
+.thanks p {
+  padding: 5em;
+}
+
+#thanksp {
+  font-family: poppins, sans-serif;
+  width: 70%;
+  color: white;
+}
+
+/* Thank you page action button */
+
+.return {
+  cursor: pointer;
+  margin: 20px 0;
+  border: solid 1px white;
+  background-color: #1e5c71;
+  color: white;
+  font-size: 1rem;
+  border-radius: 10px;
+  padding: 10px;
+  transition: 0.4s ease-in-out;
+}
+
+.return:hover {
+  background-color: white;
+  color: #1e5c71;
+  border: 1px solid #1e5c71;
+  box-shadow: inset 100px 0 0 0 white;
+}
+
+/* Media queries for responsive design */
+
+@media screen and (max-width: 600px) {
+  .services {
     flex-direction: column;
-    height: 100%;
-    width: 100%;
-  }
-  
-  .thanks h1,
-  .thanks p {
-    padding: 5em;
-  }
-  
-  #thanksp {
-    font-family: poppins, sans-serif;
-    width: 70%;
-    color: white;
   }
 
-  /* Thank you page action button */
+  .nav_links {
+    list-style-type: none;
 
-  .return {
-    cursor: pointer;
-    margin: 20px 0;
-    border: solid 1px white;
-    background-color: #1e5c71;
-    color: white;
-    font-size: 1rem;
-    border-radius: 10px;
-    padding: 10px;
-    transition: 0.4s ease-in-out;
-  }
-  
-  .return:hover {
-    background-color: white;
-    color: #1e5c71;
-    border: 1px solid #1e5c71;
-    box-shadow: inset 100px 0 0 0 white;
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
   }
 
-  /* media queries for responsive design */
+  .nav_links li a {
+    display: block;
 
-  @media screen and (max-width: 600px) {
-    .services {
-      flex-direction: column;
-    }
-  
-    .nav_links {
-      list-style-type: none;
-  
-      margin: 0;
-  
-      padding: 0;
-  
-      overflow: hidden;
-    }
-  
-    .nav_links li a {
-      display: block;
-  
-      text-align: center;
-  
-      padding: 14px 16px;
-  
-      text-decoration: none;
-    }
-  
-    .skip-nav {
-      visibility: hidden;
-    }
-  
-    .consult {
-      font-size: 0.95rem;
-    }
-  }
-  
-  @media screen and (min-width: 600px) {
-    .split {
-      flex-direction: row;
-    }
-  
-    .split > * {
-      flex-basis: 100%;
-    }
-  
-    .split > * + * {
-      margin-left: 2em;
-    }
-  }
-  
+    text-align: center;
 
+    padding: 14px 16px;
+
+    text-decoration: none;
+  }
+
+  .skip-nav {
+    visibility: hidden;
+  }
+
+  .consult {
+    font-size: 0.95rem;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .split {
+    flex-direction: row;
+  }
+
+  .split>* {
+    flex-basis: 100%;
+  }
+
+  .split>*+* {
+    margin-left: 2em;
+  }
+}
