@@ -435,25 +435,32 @@ header {
 
   /* media queries for responsive design */
 
-  @media (max-width: 40rem) {
+  @media screen and (max-width: 600px) {
     .services {
       flex-direction: column;
     }
   
-    .nav_links,
-    li,
-    a {
-      flex-direction: column;
-      /* align-content: space-around; */
-      justify-content: center;
-      align-items: center;
+    .nav_links {
+      list-style-type: none;
+  
+      margin: 0;
+  
+      padding: 0;
+  
+      overflow: hidden;
+    }
+  
+    .nav_links li a {
+      display: block;
+  
+      text-align: center;
+  
+      padding: 14px 16px;
+  
+      text-decoration: none;
     }
   
     .skip-nav {
-      visibility: hidden;
-    }
-  
-    .logo {
       visibility: hidden;
     }
   
@@ -462,7 +469,7 @@ header {
     }
   }
   
-  @media (min-width: 40em) {
+  @media screen and (min-width: 600px) {
     .split {
       flex-direction: row;
     }
