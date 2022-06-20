@@ -1,4 +1,6 @@
-# [WebLife Digital Legacy Management](https://grumpyrobot21.github.io/WebLife---Portfolio-Project-1---HTML-CSS-Essentials/)
+# **[WebLife Digital Legacy Management](https://grumpyrobot21.github.io/WebLife---Portfolio-Project-1---HTML-CSS-Essentials/)**
 
-Portfolio Project 1 - HTML /CSS Essentials - as part of the Code Institue Full Stack Developer Diploma program.
+## **Milestone Portfolio Project 1 - HTML /CSS Essentials - Code Institute Full Stack Developer Diploma.**
 
+<p align="center">
+  <img src="assets/images/WebLife-screencap.png"?raw=true alt="responsive web design"></p>
