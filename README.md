@@ -4,3 +4,7 @@
 
 <p align="center">
   <img src="assets/images/WebLife-screencap.png"?raw=true alt="responsive web design"></p>
+
+  ## **INTRODUCTION.**
+
+### This web application has been developed in order to stimulate discussion around the topic of what happens to our online data after we die. The website represents a fictional consultancy that offers to manage clients digital legacies prior to and in the event of their deaths.
