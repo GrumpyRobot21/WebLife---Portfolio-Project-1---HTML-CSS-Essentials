@@ -24,5 +24,14 @@ This has been designed to be clear and efficient. The logo sits to the left and 
   <img src="assets/images/footer.png"?raw=true alt=" picture of the navigation bar"></p>
 The footer has been designed to be informative and simple in it's presentation. It should not detract from the main page content yet provide relevant and helpful information for the user to engage with when required. The business contact location, email address and telephone number are clearly displayed below links to social media icons. The icons are animated when the cursor is hovered above to clearly indicate which icon is being engaged by the user. Each link opens the relevant page in a separate tab. The footer functionality and design are the same for each page in order to maintain optimal user engagement.
 
-* ### **Home Page.**
+* ### **Page Design.**
+All four pages follow the same color scheme and design concept. The feel of the site has been specifically created to portray a clean, competent and efficient experience that conveys knowledge and professionalism to the user. All page images are related to either the online environment described in the page content or relate to the description of services. 
 
+* ### **Colour Palette.**
+The colour palette is purposefully simple and clean. It consists almost entirely of the two following colours: #1e5c71 and White.
+<p align="center">
+  <img src="assets/images/white.png"?raw=true alt=" sample of the blue shade used in the site design"></p>
+ <p align="center">
+  <img src="assets/images/designcolor.png"?raw=true alt=" sample of the blue shade used in the site design"></p> 
+
+These two colors provide a high level of contrast for users with impaired vison, as confirmed in the testing section below. They also add to the overall goal of creating a clear professional and efficient looking website. The colors were also chosen in conjunction with the main logo design to present a smooth connection across the application. This helps provide consistency to the overall flow of the user experience.
