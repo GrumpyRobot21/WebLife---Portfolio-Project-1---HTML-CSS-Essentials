@@ -230,6 +230,8 @@ h1 {
 .pic {
   border: 2px solid white;
   border-radius: 1%;
+  width: 350px;
+  height: 100%;
 }
 
 .split {
@@ -288,7 +290,7 @@ h1 {
   letter-spacing: 2px;
 }
 
-.contact-form .form-content p {
+.contact-form .form-content {
   font-family: poppins, sans-serif;
   cursor: pointer;
   text-align: center;
