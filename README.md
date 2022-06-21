@@ -35,3 +35,13 @@ The colour palette is purposefully simple and clean. It consists almost entirely
   <img src="assets/images/designcolor.png"?raw=true alt=" sample of the blue shade used in the site design"></p> 
 
 These two colors provide a high level of contrast for users with impaired vison, as confirmed in the testing section below. They also add to the overall goal of creating a clear professional and efficient looking website. The colors were also chosen in conjunction with the main logo design to present a smooth connection across the application. This helps provide consistency to the overall flow of the user experience.
+
+* ### **Font.**
+The chosen font is a geometric sans serif typeface named Poppins. This is modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site.
+
+
+## **USER JOURNEY.**
+## **WIREFRAMES.**
+## **TESTING.**
+## **DEPLOYMENT.**
+## **TOOLS USED AND CODE INSPIRATION.**
