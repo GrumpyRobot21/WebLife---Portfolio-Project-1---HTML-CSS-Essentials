@@ -24,3 +24,5 @@ This has been designed to be clear and efficient. The logo sits to the left and 
   <img src="assets/images/footer.png"?raw=true alt=" picture of the navigation bar"></p>
 The footer has been designed to be informative and simple in it's presentation. It should not detract from the main page content yet provide relevant and helpful information for the user to engage with when required. The business contact location, email address and telephone number are clearly displayed below links to social media icons. The icons are animated when the cursor is hovered above to clearly indicate which icon is being engaged by the user. Each link opens the relevant page in a separate tab. The footer functionality and design are the same for each page in order to maintain optimal user engagement.
 
+* ### **Home Page.**
+
