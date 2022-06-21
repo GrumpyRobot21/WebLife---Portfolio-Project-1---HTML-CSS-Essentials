@@ -89,7 +89,7 @@ header {
 .hero {
   cursor: pointer;
   background-color: #1e5c71;
-  background-image: url("../images/tech-officesml.jpg");
+  background-image: url("../images/tech-officeshrunk.webp");
   background-blend-mode: multiply;
   background-size: cover;
   height: 50vh;
@@ -204,7 +204,7 @@ footer {
 
 .backimg {
   background-color: #1e5c71;
-  background-image: url("../images/busy-officesml.jpg");
+  background-image: url("../images/busy-officesml.webp");
   background-size: cover;
   background-blend-mode: multiply;
   height: 100%;
@@ -271,7 +271,7 @@ h1 {
   font-family: poppins, sans-serif;
   cursor: pointer;
   background-color: #1e5c71;
-  background-image: url("../images/group_meeting.jpg");
+  background-image: url("../images/group_meeting.webp");
   background-size: cover;
   background-blend-mode: multiply;
   color: white;

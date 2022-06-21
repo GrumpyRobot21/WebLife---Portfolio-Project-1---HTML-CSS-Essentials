@@ -7,4 +7,4 @@
 
   ## **INTRODUCTION.**
 
-### This web application has been developed in order to stimulate discussion around the topic of what happens to our online data after we die. The website represents a fictional consultancy that offers to manage clients digital legacies prior to and in the event of their deaths.
+#### This web application has been developed in order to stimulate discussion around the topic of what happens to our online data after we are no longer around to look after it. The website represents a fictional consultancy that offers to manage clients digital legacies prior to and in the event of their deaths.
