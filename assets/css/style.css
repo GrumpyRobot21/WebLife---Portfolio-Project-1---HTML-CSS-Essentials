@@ -391,7 +391,7 @@ textarea::placeholder {
 .thanks {
   cursor: pointer;
   background-color: #1e5c71;
-  background-image: url("../images/coders.jpg");
+  background-image: url("../images/coders.webp");
   background-size: cover;
   background-blend-mode: multiply;
   display: flex;
