@@ -27,6 +27,12 @@ The footer has been designed to be informative and simple in it's presentation. 
 * ### **Page Design.**
 All four pages follow the same color scheme and design concept. The feel of the site has been specifically created to portray a clean, competent and efficient experience that conveys knowledge and professionalism to the user. All page images are related to either the online environment described in the page content or relate to the description of services. 
 
+ 1. #### **Home Page.**
+ Below the navbar are the hero Image and an overlayed attention grabbing quote. These have been designed to immediately capture the users interest amd draw them into the paragraph below. The core business services are described underneath the introductory paragraph followed by a large bold action button to take them further into the site for more detailed information.
+
+ 2. #### ** About Page.**
+Here the user is further educated on the issues facing the majority of the world regarding their online legacy. While describing the issues at hand the user is also stimulated to do something about it and encouraged to discuss the possiilities further with WebLife. The action button at the bottom of the page is large and bold as before 
+
 * ### **Colour Palette.**
 The colour palette is purposefully simple and clean. It consists almost entirely of the two following colours: #1e5c71 and White.
 <p align="center">
@@ -37,7 +43,7 @@ The colour palette is purposefully simple and clean. It consists almost entirely
 These two colors provide a high level of contrast for users with impaired vison, as confirmed in the testing section below. They also add to the overall goal of creating a clear professional and efficient looking website. The colors were also chosen in conjunction with the main logo design to present a smooth connection across the application. This helps provide consistency to the overall flow of the user experience.
 
 * ### **Font.**
-The chosen font is a geometric sans serif typeface named Poppins. This is modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site.
+The chosen font is a geometric sans serif typeface named Poppins. This is a modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site.
 
 
 ## **USER JOURNEY.**
