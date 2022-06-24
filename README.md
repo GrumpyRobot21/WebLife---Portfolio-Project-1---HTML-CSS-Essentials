@@ -60,9 +60,17 @@ The chosen font is a geometric sans serif typeface named Poppins. This is a mode
 
 ## **USER JOURNEY.**
 
-Our user is called 'Bob'. Bob is a young professional who has a great number of online profiles across many platforms. Like most of Bob's generation, Bob does a lot of things online for recreational, personal and business purposes.
+For the purposes of this journey our 'First time' user will be called 'Bob'. Bob is a young professional who has a great number of online profiles across many platforms. Like most of Bob's generation, Bob does a lot of things online for recreational, personal and business purposes.
 
--  Bob has looked up the site because he wants to learn more about managing his online digital legacy. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns 
+-  Bob has looked up the site because he wants to learn more about the importance of managing his online digital legacy and that he is aware that he has a growing number of online data and assets to keep under control. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns a little about the company and what it does for potential clients. On reaching the bottom pf the page Bob sees the prominent button to learn more. The social media icons are also clear and on display so Bob can easily subscribe to his preferred platforms and follow the WebLife media pages to be kept up to date on the latest news and developments. Bob clicks on the button to learn more. PAGE AIM: To capture the user interest while presenting the user with clear and concise navigation choices and clearly defined social media links. 
+
+- Bob is now on the About Us page. This page elaborates on the initial information encountered previously. Here Bob is now more aware of the issues faced by modern internet users and how there is a need to be more in control of their online assets. Bobis now intrigued and is interested in a no strings attached free consultati with an expert. Bob clicks on the prominent action button at the foot of the page.
+
+- Bob has reached the submission form. He is unable to submit it until he has fully completed the fields. This is clearly indicated in a helpful manner and Bob easily fill sout the prerequisite information and subnits the form. He is immediately informed that his message has been received and that an expert will be in touch within 24 hours. This pleases Bob and he subscribes to a few social media platforms to follow WebLife.
+
+
+
+Bo is interested and 
 ## **WIREFRAMES.**
 ## **TESTING.**
 ## **DEPLOYMENT.**
