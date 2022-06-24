@@ -13,6 +13,8 @@ This web application has been developed in order to stimulate discussion around 
 
 The aim was to create a streamlined site with two specific goals in mind. The first goal is purely a cognitive one, encourage users to consider this important topic in todays increasingly online environment. The second goal is entirely a functional and business related one. Namely, use the site design to funnel users towards booking a consultation by enticing and guiding them towards the contact page using visual stimulation and robust, clear and uncluttered site navigation.
 
+***
+
 ## **DESIGN FEATURES.**
 * ### **Navigation Bar.**
 <p align="center">
@@ -28,10 +30,19 @@ The footer has been designed to be informative and simple in it's presentation. 
 All four pages follow the same color scheme and design concept. The feel of the site has been specifically created to portray a clean, competent and efficient experience that conveys knowledge and professionalism to the user. All page images are related to either the online environment described in the page content or relate to the description of services. 
 
  1. #### **Home Page.**
- Below the navbar are the hero Image and an overlayed attention grabbing quote. These have been designed to immediately capture the users interest amd draw them into the paragraph below. The core business services are described underneath the introductory paragraph followed by a large bold action button to take them further into the site for more detailed information.
+ Below the navbar are the hero Image and an overlayed attention grabbing quote. These have been designed to immediately capture the users interest and draw them into the following paragraph. The core business services are described underneath the introductory paragraph followed by a large bold action button to take them further into the site for more detailed information.
 
- 2. #### ** About Page.**
-Here the user is further educated on the issues facing the majority of the world regarding their online legacy. While describing the issues at hand the user is also stimulated to do something about it and encouraged to discuss the possiilities further with WebLife. The action button at the bottom of the page is large and bold as before 
+ 2. #### **About Page.**
+Here the user is further educated on the issues facing the majority of the world regarding their online legacy. While describing the issues at hand the user is also stimulated to do something about it and encouraged to discuss the possibilities further with WebLife. The action button at the bottom of the page is large and bold to encourage the user to move onto the next stage and schedule a free consultation.
+
+ 3. #### **Contact Page.**
+
+This is deliberately simple and clean in it's design. The user has only to fill in the details and submit the form to schedule their consultation. With the completion of this action the purpose of the web app has been fulfilled. 
+
+3. #### **Thank you Page.**
+This is a simple thank you page to confirm that the users contact page form submission has been completed and to reassure them that their consultant will be in touch within a predetermined time limit. There is an action button to return to the home page so the user has the option to re-read the site information.
+
+***
 
 * ### **Colour Palette.**
 The colour palette is purposefully simple and clean. It consists almost entirely of the two following colours: #1e5c71 and White.
@@ -43,10 +54,15 @@ The colour palette is purposefully simple and clean. It consists almost entirely
 These two colors provide a high level of contrast for users with impaired vison, as confirmed in the testing section below. They also add to the overall goal of creating a clear professional and efficient looking website. The colors were also chosen in conjunction with the main logo design to present a smooth connection across the application. This helps provide consistency to the overall flow of the user experience.
 
 * ### **Font.**
-The chosen font is a geometric sans serif typeface named Poppins. This is a modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site.
+The chosen font is a geometric sans serif typeface named Poppins. This is a modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site. This is the font description courtesy of the google fonts page "Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. With support for the Devanagari and Latin writing systems, it is an internationalist take on the genre."
 
+***
 
 ## **USER JOURNEY.**
+
+Our user is called 'Bob'. Bob is a young professional who has a great number of online profiles across many platforms. Like most of Bob's generation, Bob does a lot of things online for recreational, personal and business purposes.
+
+-  Bob has looked up the site because he wants to learn more about managing his online digital legacy. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns 
 ## **WIREFRAMES.**
 ## **TESTING.**
 ## **DEPLOYMENT.**
