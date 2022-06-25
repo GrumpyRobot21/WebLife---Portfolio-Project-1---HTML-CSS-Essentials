@@ -64,21 +64,25 @@ For the purposes of this journey our 'First time' user will be called 'Bob'. Bob
 
 -  Bob has looked up the site because he wants to learn more about the importance of managing his online digital legacy and he is aware that he has a growing portfolio of online data and assets to keep under control. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns a little about the company and what it does for potential clients. On reaching the bottom pf the page Bob sees the prominent button to learn more. The social media icons are also clear and on display so Bob can easily subscribe to his preferred platforms and follow the WebLife media pages to be kept up to date on the latest news and developments. Bob clicks on the button to learn more. PAGE AIM: To capture the users interest while presenting the user with clear and concise navigation choices and clearly defined social media links. 
 
-- Bob is now on the ABOUT US page. This page elaborates on the initial information encountered previously. Here Bob is now more aware of the issues faced by modern internet users and how there is a need to be more in control of their online assets. Bob is now intrigued, curious and genuinely interested in a no strings attached free consultation with an expert. Bob clicks on the prominent action button at the foot of the page to move deeper into the application. PAGE AIM: To provide information and drive a users curiosity with the perception of an issue that needs to be dealt with. The ultimate goal is to drive traffic to the CONTACT US page and get the user to engage positively.
+- Bob is now on the ABOUT US page. This page elaborates on the initial information encountered previously. Here Bob is now more aware of the issues faced by modern internet users and how there is a need to be more in control of their online assets. Bob is now intrigued, curious and genuinely interested in a no strings attached free consultation with an expert. Bob clicks on the prominent action button at the foot of the page to move deeper into the application. PAGE AIM: To provide more detailed information and drive a users curiosity with the perception of an issue that needs to be dealt with. The ultimate goal is to drive traffic to the CONTACT US page and get the user to engage positively by submitting the completed form.
 
-- Bob has now been taken to the CONTACT US submission form. He is unable to submit it until he has fully completed the fields. This is clearly indicated in a concise and helpful manner. Bob easily fills out the prerequisite information and submits the form. He is immediately informed that his message has been received and that an expert will be in touch within 24 hours. This pleases Bob and as Bob is interested in keeping up with relevant news he signs up to his preferred choice of social media accounts via the icons at the bottom of the page.
+- Bob has now been taken to the CONTACT US submission form. He is unable to submit it until he has fully completed all of the fields. This is clearly indicated in a concise and helpful manner. Bob easily fills out the prerequisite information and submits the form. He is immediately informed that his message has been received and that an expert will be in touch within 24 hours. This pleases Bob and as Bob is interested in keeping up with relevant news he signs up to his preferred choice of social media accounts via the icons at the bottom of the page. PAGE AIM: To compel the user to complete the form and engage with the company directly. With the user filling in the form and submitting it the web application will have succeeded in it's primary purpose.
 
 * ### **Returning Users.** 
 This site in its current form is designed specifically to generate new customer leads and drive traffic to the contact page where they engage directly with the company. As a result it is not yet fully developed for returning users. This functionality will be addressed in the 'Future Aspirations' section below.
 
 ***
-
-
-
-
-
-
 ## **WIREFRAMES.**
+For the three main pages the wireframe preliminary layout design can be seen below. This was done using Balsamiq (https://balsamiq.com/):
+
+- ### **Home** 
+![WebLife](/assets/images/WL_Home.png)
+- ### **About** 
+![WebLife](/assets/images/WL_About.png)
+- ### **Contact** 
+![WebLife](/assets/images/WL_Contact.png)
+***
 ## **TESTING.**
 ## **DEPLOYMENT.**
+## **FUTURE ASPIRATIONS.**
 ## **TOOLS USED AND CODE INSPIRATION.**
