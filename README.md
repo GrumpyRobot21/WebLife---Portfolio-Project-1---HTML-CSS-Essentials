@@ -99,6 +99,25 @@ The following test results were achieved for the individual pages (index.html, a
 ![WebLife](/assets/images/W3CMUThankyou.png)
 
 - ### **CSS Testing**
+The following test results were achieved for the individual pages (index.html, about.html, contact.html & thankyou.html) using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- index.html
+
+![WebLife](/assets/images/CSScheckHome.png)
+- about.html
+
+![WebLife](/assets/images/CSScheckAbout.png)
+- contact.html
+
+![WebLife](/assets/images/CSScheckContact.png)
+- thankyou.html
+
+![WebLife](/assets/images/CSScheckThankyou.png)
+
+- ### **Chrome Dev Tools - Lighthouse - Testing**
+The Chrome dev tool - Lighthouse - Tests the overall performance, Accessibility, Web Development best practices and SEO. The following results were confirmed:
+
+![WebLife](/assets/images/lighthouse-test-result.png)
+
 
 ## **DEPLOYMENT.**
 ## **FUTURE ASPIRATIONS.**
