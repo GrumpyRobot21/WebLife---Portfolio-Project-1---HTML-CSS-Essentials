@@ -73,7 +73,7 @@ This site in its current form is designed specifically to generate new customer 
 
 ***
 ## **WIREFRAMES.**
-For the three main pages the wireframe preliminary layout design can be seen below. This was done using Balsamiq (https://balsamiq.com/):
+For the three main pages the wireframe preliminary layout design can be seen below. This was done using [Balsamiq](https://balsamiq.com/):
 
 - ### **Home** 
 ![WebLife](/assets/images/WL_Home.png)
@@ -83,6 +83,22 @@ For the three main pages the wireframe preliminary layout design can be seen bel
 ![WebLife](/assets/images/WL_Contact.png)
 ***
 ## **TESTING.**
+- ### **HTML Testing**
+The following test results were achieved for the individual pages (index.html, about.html, contact.html & thankyou.html) using the [W3C Markup Validation Service](https://validator.w3.org/) 
+- index.html
+
+![WebLife](/assets/images/W3CMUHome.png)
+- about.html
+
+![WebLife](/assets/images/W3CMUAbout.png)
+- contact.html
+
+![WebLife](/assets/images/W3CMUContact.png)
+- thankyou.html
+
+![WebLife](/assets/images/W3CMUThankyou.png)
+
+- ### **CSS Testing**
 
 ## **DEPLOYMENT.**
 ## **FUTURE ASPIRATIONS.**
