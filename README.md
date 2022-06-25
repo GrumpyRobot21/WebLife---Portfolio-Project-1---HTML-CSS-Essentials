@@ -51,26 +51,33 @@ The colour palette is purposefully simple and clean. It consists almost entirely
  <p align="center">
   <img src="assets/images/designcolor.png"?raw=true alt=" sample of the blue shade used in the site design"></p> 
 
-These two colors provide a high level of contrast for users with impaired vison, as confirmed in the testing section below. They also add to the overall goal of creating a clear professional and efficient looking website. The colors were also chosen in conjunction with the main logo design to present a smooth connection across the application. This helps provide consistency to the overall flow of the user experience.
+These two colors provide a high level of contrast for users with impaired vison, as confirmed in the testing section below. They also add to the overall goal of creating a clear professional and efficient looking website. The colors were chosen in conjunction with the main logo design to present a smooth connection across the application. This helps provide consistency to the overall aesthetic flow of the user experience.
 
 * ### **Font.**
-The chosen font is a geometric sans serif typeface named Poppins. This is a modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site. This is the font description courtesy of the google fonts page "Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. With support for the Devanagari and Latin writing systems, it is an internationalist take on the genre."
+The chosen font is a geometric sans serif typeface named Poppins. This is a modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site. This is the official font description courtesy of the google fonts page "Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. With support for the Devanagari and Latin writing systems, it is an internationalist take on the genre."
 
 ***
 
 ## **USER JOURNEY.**
 
-For the purposes of this journey our 'First time' user will be called 'Bob'. Bob is a young professional who has a great number of online profiles across many platforms. Like most of Bob's generation, Bob does a lot of things online for recreational, personal and business purposes.
+For the purposes of this journey our 'First time' user will be called 'Bob'. Bob is a young professional who has a great number of online profiles and accounts across many platforms. Like most of Bob's generation, Bob does a lot of things online for recreational, personal and business purposes.
 
--  Bob has looked up the site because he wants to learn more about the importance of managing his online digital legacy and that he is aware that he has a growing number of online data and assets to keep under control. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns a little about the company and what it does for potential clients. On reaching the bottom pf the page Bob sees the prominent button to learn more. The social media icons are also clear and on display so Bob can easily subscribe to his preferred platforms and follow the WebLife media pages to be kept up to date on the latest news and developments. Bob clicks on the button to learn more. PAGE AIM: To capture the user interest while presenting the user with clear and concise navigation choices and clearly defined social media links. 
+-  Bob has looked up the site because he wants to learn more about the importance of managing his online digital legacy and he is aware that he has a growing portfolio of online data and assets to keep under control. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns a little about the company and what it does for potential clients. On reaching the bottom pf the page Bob sees the prominent button to learn more. The social media icons are also clear and on display so Bob can easily subscribe to his preferred platforms and follow the WebLife media pages to be kept up to date on the latest news and developments. Bob clicks on the button to learn more. PAGE AIM: To capture the users interest while presenting the user with clear and concise navigation choices and clearly defined social media links. 
 
-- Bob is now on the About Us page. This page elaborates on the initial information encountered previously. Here Bob is now more aware of the issues faced by modern internet users and how there is a need to be more in control of their online assets. Bobis now intrigued and is interested in a no strings attached free consultati with an expert. Bob clicks on the prominent action button at the foot of the page.
+- Bob is now on the ABOUT US page. This page elaborates on the initial information encountered previously. Here Bob is now more aware of the issues faced by modern internet users and how there is a need to be more in control of their online assets. Bob is now intrigued, curious and genuinely interested in a no strings attached free consultation with an expert. Bob clicks on the prominent action button at the foot of the page to move deeper into the application. PAGE AIM: To provide information and drive a users curiosity with the perception of an issue that needs to be dealt with. The ultimate goal is to drive traffic to the CONTACT US page and get the user to engage positively.
 
-- Bob has reached the submission form. He is unable to submit it until he has fully completed the fields. This is clearly indicated in a helpful manner and Bob easily fill sout the prerequisite information and subnits the form. He is immediately informed that his message has been received and that an expert will be in touch within 24 hours. This pleases Bob and he subscribes to a few social media platforms to follow WebLife.
+- Bob has now been taken to the CONTACT US submission form. He is unable to submit it until he has fully completed the fields. This is clearly indicated in a concise and helpful manner. Bob easily fills out the prerequisite information and submits the form. He is immediately informed that his message has been received and that an expert will be in touch within 24 hours. This pleases Bob and as Bob is interested in keeping up with relevant news he signs up to his preferred choice of social media accounts via the icons at the bottom of the page.
+
+* ### **Returning Users.** 
+This site in its current form is designed specifically to generate new customer leads and drive traffic to the contact page where they engage directly with the company. As a result it is not yet fully developed for returning users. This functionality will be addressed in the 'Future Aspirations' section below.
+
+***
 
 
 
-Bo is interested and 
+
+
+
 ## **WIREFRAMES.**
 ## **TESTING.**
 ## **DEPLOYMENT.**
