@@ -83,6 +83,7 @@ For the three main pages the wireframe preliminary layout design can be seen bel
 ![WebLife](/assets/images/WL_Contact.png)
 ***
 ## **TESTING.**
+
 ## **DEPLOYMENT.**
 ## **FUTURE ASPIRATIONS.**
-## **TOOLS USED AND CODE INSPIRATION.**
+## **TOOLS USED AND CODING INSPIRATION.**
