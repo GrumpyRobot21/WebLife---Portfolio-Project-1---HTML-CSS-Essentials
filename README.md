@@ -118,7 +118,33 @@ The Chrome dev tool - Lighthouse - Tests the overall performance, Accessibility,
 
 ![WebLife](/assets/images/lighthouse-test-result.png)
 
+- ### **Responsiveness Testing**
 
+The following sites were used to test the web applications responsiveness: [Am I Responsive](https://ui.dev/amiresponsive) and [Media Genesis Responsive Design Checker](https://responsivedesignchecker.com/) 
+
+- The 'Am I responsive generator' result image has been used at the start of this readme file. Please see the image at the top for the results. This page focuses on the following image viewport sizes - 
+Desktop
+1600x992px scaled down to scale(0.3181)
+Laptop
+1280x802px scaled down to scale(0.277)
+Tablet
+768x1024px scaled down to scale(0.219)
+Mobile
+320x480px scaled down to scale(0.219). The site results indicate good performance on all viewport sizes.
+
+- The Media Genesis page gives the option to test the page on several different viewport screen sizes for Desktop 24 inch 1920 x 1200px resolution all the way down to the mobile viewport size of 320 x 480px. The site performed well on all viewport size options.
+
+- ### **Contrast/ Accessibility Testing**
+
+The [Wave Accesiibilty testing tool](https://wave.webaim.org/) was used to check to test the page contrast and accessibilty of the application. 
+
+The colour contrast was AAA rated.
+
+![WebLife](/assets/images/wave-page-contrast-result.png)
+
+- ### **User Testing**
+
+***
 ## **DEPLOYMENT.**
 ## **PREVIOUS ITERATIONS AND BUGS.**
 ## **FUTURE ASPIRATIONS.**
