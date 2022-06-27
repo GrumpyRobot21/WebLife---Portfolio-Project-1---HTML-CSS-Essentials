@@ -67,16 +67,11 @@
             <div class="form-info">
                 <div class="form-style">
                     <form method="get" action="thankyou.html">
-                        <input type="text" id="fname" placeholder="First Name" required>
-                        <label for="fname"></label>
-                        <input type="text" id="lname" placeholder="Last Name" required><br>
-                        <label for="lname"></label>
-                        <input type="Email" id="email" placeholder="Email Address" required><br>
-                        <label for="email"></label>
-                        <input type="tel" id="phold" placeholder="Phone Number" required><br>
-                        <label for="phold"></label>
-                        <textarea name="message" id="message" placeholder="Message" rows="5" required></textarea><br>
-                        <label for="message"></label>
+                        <input type="text" title="First name" aria-label="Enter first name into form" id="fname" placeholder="First Name" required>
+                        <input type="text" title="Last name" aria-label="Enter last name into form"  id="lname" placeholder="Last Name" required><br>
+                        <input type="Email" title="Email" aria-label="Enter email address into form" id="email" placeholder="Email Address" required><br>
+                        <input type="tel" title="phone number" aria-label="Enter phone number into form" id="phone" placeholder="Phone Number" required><br>
+                        <textarea name="message" title="Message" aria-label="Enter message into form" id="message" placeholder="Message" rows="5" required></textarea><br>
                         <div id="butt1">
                             <button class="send">Confirm consultation</button>
                         </div>

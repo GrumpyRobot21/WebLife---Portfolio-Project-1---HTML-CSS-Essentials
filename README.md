@@ -120,5 +120,6 @@ The Chrome dev tool - Lighthouse - Tests the overall performance, Accessibility,
 
 
 ## **DEPLOYMENT.**
+## **PREVIOUS ITERATIONS AND BUGS.**
 ## **FUTURE ASPIRATIONS.**
 ## **TOOLS USED AND CODING INSPIRATION.**
