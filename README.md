@@ -168,7 +168,7 @@ Forking enables a third party to create a copy of the repository in order to vie
 - ### **Cloning the Repository**
 Follow these instructions to create a clone of the repository within your local development environment to make it easier to fix merge conflicts, add or remove files, and push larger commits.
 
-1. 1. Log in to [GitHub](https://github.com/), access the specific GitHub Repository - [WebLife Digital Legacy Management](https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials)
+1. Log in to [GitHub](https://github.com/), access the specific GitHub Repository - [WebLife Digital Legacy Management](https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials)
 2. Above the file list on the repository page locate and click the 'Code' button (beside the 'Add file' button)
 3. Copy the provided link depending on your desired option for either 'HTTPS', 'SSH key' or 'GitHub CLI.
 4. Open Git Bash and change the current working directory to the location where you want the cloned directory to be made.
@@ -176,5 +176,40 @@ Follow these instructions to create a clone of the repository within your local 
 
 ***
 ## **PREVIOUS ITERATIONS AND BUGS.**
+The first iteration of this project was built without a proper uderstanding of the 'Mobile First' Developement concept. As a result it made it difficult to figure out the best approach to making the application responsive. Following engagement with Code Institute tutor support new concepts and ideas were discussed that helped resolve the decision to start again using some of the same design ideas but approaching the build from a new perspective. The end result was more responsive in its initial design from the ground up and as a result easier to complete than the first attempt.
+
+- ### **bugs**
+Apart from the usual spelling mistakes and formatting to tidy up, a number of bugs were identified during the testing phase and updated. These included but were not exclusively, having to add titles and aria labelling to the contact form to avoid the issue of not having specific labels. Updating the main images from .png files to .webp format in order to reduce loading times and cacheing issues. Discovering redundant css styling while using the Chrome Developer tools but in the process understanding more about how these tools are extremely useful in the devlopment design and testing phase. 
+
+There will undoubtedly be other issues that I am currently unaware of and styling changes that I will make as I gain additional knowledge during the remaining course modules. It has been a very enjoyable albeit sometimes incredibly frustrating process but ultimately extremely rewarding and fun.
+
+***
+
 ## **FUTURE ASPIRATIONS.**
+These include an online portal or client area to allow clients the access for online management of portflios held with WebLife. This would include a secure passord or  biometrically protected client area where various levels of service and functionality would be offered. This would further facilitate the 'returning user' element of the site. A futher refining of the design will be part of the ongoing application development in future. 
+
+Discovering what Bootstrap is has been enlightening as it would obviously make the whole process a little quicker and easier. However, having to complete all the code personally means that during this process I have gained experience of simply writing code and not relying on a Framework to do the heavy lifting, although I will be taking advantage of this where I can in future.
+
 ## **TOOLS USED AND CODING INSPIRATION.**
+The following tools, pages and tutorials were invaluable in helping me complete this project:
+
+- HTML5
+- CSS3
+- [GitPod](https://www.gitpod.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub](https://github.com/)
+- [Wix Logo Creator](https://www.wix.com/logo/maker) The site Logo.
+- [Font Awesome Icons](https://fontawesome.com/) Social media Icons.
+- [CSS- Tricks](https://css-tricks.com/) Link hover effect for navbar.
+- [Real Favicon Generator](https://realfavicongenerator.net/) Favicon design for cross platform functionality.
+- [Kevin Powell](https://www.kevinpowell.co/) Skip Navigation function and all aound CSS genius.
+- [Pexels Images](https://www.pexels.com/) Site images.
+- [Unsplash Images](https://unsplash.com/images) Site Images.
+- [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) Application testing.
+- [W3C Markup Validation Service](https://validator.w3.org/) HTML testing.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) CSS testing.
+- [Am I Responsive](https://ui.dev/amiresponsive) Responsiveness testing.
+- [Media Genesis Responsive Design Checker](https://responsivedesignchecker.com/) Responsiveness testing.
+- [Wave Accesiibilty testing tool](https://wave.webaim.org/) Accessibility and Contrast testing.
+- [Code Institute Tutor Support](https://codeinstitute.net/ie/) Invaluable support and assistance. Excellent course material.
+- [Slack community](https://slack.com/intl/en-ie/) Community support, shared experience and motivation.
