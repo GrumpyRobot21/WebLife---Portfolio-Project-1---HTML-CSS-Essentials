@@ -73,7 +73,7 @@ This site in its current form is designed specifically to generate new customer 
 
 ***
 ## **WIREFRAMES.**
-For the three main pages the wireframe preliminary layout design can be seen below. This was done using [Balsamiq](https://balsamiq.com/):
+For the three main pages the wireframe preliminary layout design can be seen below. This were created using the wireframe tool [Balsamiq](https://balsamiq.com/):
 
 - ### **Home** 
 ![WebLife](/assets/images/WL_Home.png)
@@ -132,7 +132,7 @@ Tablet
 Mobile
 320x480px scaled down to scale(0.219). The site results indicate good performance on all viewport sizes.
 
-- The Media Genesis page gives the option to test the page on several different viewport screen sizes for Desktop 24 inch 1920 x 1200px resolution all the way down to the mobile viewport size of 320 x 480px. The site performed well on all viewport size options.
+- The Media Genesis page gives the option to test the page on several different viewport screen sizes from Desktop 24 inch 1920 x 1200px resolution all the way down to the mobile viewport size of 320 x 480px. The site performed very well on all viewport size options.
 
 - ### **Contrast/ Accessibility Testing**
 
@@ -144,8 +144,37 @@ The colour contrast was AAA rated.
 
 - ### **User Testing**
 
+Friends and family were the resource used to extensively test the usability of the web application. All page links and button functionality were tested including ascertaing that all social media links opened in separate tabs and that all action buttons and nav links were correctly configured and redirected the user to the correct page, as indicated.
+
 ***
 ## **DEPLOYMENT.**
+The most recent iteration of the WebLife application has been deployed via Github pages. The following instructions clarify the process.
+
+1. Log in to [GitHub](https://github.com/), access the specific GitHub Repository - [WebLife Digital Legacy Management](https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials) (Hover over this link for the complete repository url)
+2. Click on the 'Settings' icon in the menu below the repository title.
+3. Click on the Pages option in the settings page menu on the left hand side of the screen.
+4. Click on the dropdown button "None" and select 'Master' or 'Main' Branch".
+5. This will cause the page to automatically refresh and a link to the fully deployed site will be displayed towards the top of the page. There may be a brief delay during this process to accomodate Github as it prepares the application for deployment.
+
+Should you wish to 'Fork' or 'Clone' the repository please follow these instructions:
+
+- ### **Forking the Repository**
+Forking enables a third party to create a copy of the repository in order to view and/or make changes without affecting the original.
+
+1. Log in to [GitHub](https://github.com/), access the specific GitHub Repository - [WebLife Digital Legacy Management](https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials)
+2. Towards the top right of the repository page, underneath the user icon you will find and click the "Fork" Button.
+3. You will now have successfully created a copy of the original repository within your GitHub account.
+
+- ### **Cloning the Repository**
+Follow these instructions to create a clone of the repository within your local development environment to make it easier to fix merge conflicts, add or remove files, and push larger commits.
+
+1. 1. Log in to [GitHub](https://github.com/), access the specific GitHub Repository - [WebLife Digital Legacy Management](https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials)
+2. Above the file list on the repository page locate and click the 'Code' button (beside the 'Add file' button)
+3. Copy the provided link depending on your desired option for either 'HTTPS', 'SSH key' or 'GitHub CLI.
+4. Open Git Bash and change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the specific URL you copied in Step 3.
+
+***
 ## **PREVIOUS ITERATIONS AND BUGS.**
 ## **FUTURE ASPIRATIONS.**
 ## **TOOLS USED AND CODING INSPIRATION.**
