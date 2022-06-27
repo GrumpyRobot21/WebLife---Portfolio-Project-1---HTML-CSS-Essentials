@@ -51,7 +51,7 @@ The colour palette is purposefully simple and clean. It consists almost entirely
  <p align="center">
   <img src="assets/images/designcolor.png"?raw=true alt=" sample of the blue shade used in the site design"></p> 
 
-These two colors provide a high level of contrast for users with impaired vison, as confirmed in the testing section below. They also add to the overall goal of creating a clear professional and efficient looking website. The colors were chosen in conjunction with the main logo design to present a smooth connection across the application. This helps provide consistency to the overall aesthetic flow of the user experience.
+These two colors provide a high level of contrast for users with impaired vison, as confirmed in the testing section below. They also add to the overall goal of creating a clear, professional and efficient design ethos. The colors were chosen in conjunction with the main logo to present a smooth, related connection across the application. This helps provide consistency to the overall aesthetic flow of the user experience.
 
 * ### **Font.**
 The chosen font is a geometric sans serif typeface named Poppins. This is a modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site. This is the official font description courtesy of the google fonts page "Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. With support for the Devanagari and Latin writing systems, it is an internationalist take on the genre."
@@ -62,7 +62,7 @@ The chosen font is a geometric sans serif typeface named Poppins. This is a mode
 
 For the purposes of this journey our 'First time' user will be called 'Bob'. Bob is a young professional who has a great number of online profiles and accounts across many platforms. Like most of Bob's generation, Bob does a lot of things online for recreational, personal and business purposes.
 
--  Bob has looked up the site because he wants to learn more about the importance of managing his online digital legacy and he is aware that he has a growing portfolio of online data and assets to keep under control. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns a little about the company and what it does for potential clients. On reaching the bottom pf the page Bob sees the prominent button to learn more. The social media icons are also clear and on display so Bob can easily subscribe to his preferred platforms and follow the WebLife media pages to be kept up to date on the latest news and developments. Bob clicks on the button to learn more. PAGE AIM: To capture the users interest while presenting the user with clear and concise navigation choices and clearly defined social media links. 
+-  Bob has looked up the site because he wants to learn more about the importance of managing his online digital legacy and he is aware that he has a growing portfolio of online data and assets to keep under control. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns a little about the company and what it does for potential clients. On reaching the bottom of the page Bob sees the prominent button to learn more. The social media icons are also clear and on display so Bob can easily subscribe to his preferred platforms and follow the WebLife media pages to be kept up to date on the latest news and developments. Bob clicks on the button to learn more. PAGE AIM: To capture the users interest while presenting the user with clear and concise navigation choices and clearly defined social media links. 
 
 - Bob is now on the ABOUT US page. This page elaborates on the initial information encountered previously. Here Bob is now more aware of the issues faced by modern internet users and how there is a need to be more in control of their online assets. Bob is now intrigued, curious and genuinely interested in a no strings attached free consultation with an expert. Bob clicks on the prominent action button at the foot of the page to move deeper into the application. PAGE AIM: To provide more detailed information and drive a users curiosity with the perception of an issue that needs to be dealt with. The ultimate goal is to drive traffic to the CONTACT US page and get the user to engage positively by submitting the completed form.
 
@@ -178,7 +178,7 @@ Follow these instructions to create a clone of the repository within your local 
 ## **PREVIOUS ITERATIONS AND BUGS.**
 The first iteration of this project was built without a proper uderstanding of the 'Mobile First' Developement concept. As a result it made it difficult to figure out the best approach to making the application responsive. Following engagement with Code Institute tutor support new concepts and ideas were discussed that helped resolve the decision to start again using some of the same design ideas but approaching the build from a new perspective. The end result was more responsive in its initial design from the ground up and as a result easier to complete than the first attempt.
 
-- ### **bugs**
+- ### **Bugs**
 Apart from the usual spelling mistakes and formatting to tidy up, a number of bugs were identified during the testing phase and updated. These included but were not exclusively, having to add titles and aria labelling to the contact form to avoid the issue of not having specific labels. Updating the main images from .png files to .webp format in order to reduce loading times and cacheing issues. Discovering redundant css styling while using the Chrome Developer tools but in the process understanding more about how these tools are extremely useful in the devlopment design and testing phase. 
 
 There will undoubtedly be other issues that I am currently unaware of and styling changes that I will make as I gain additional knowledge during the remaining course modules. It has been a very enjoyable albeit sometimes incredibly frustrating process but ultimately extremely rewarding and fun.
@@ -187,6 +187,8 @@ There will undoubtedly be other issues that I am currently unaware of and stylin
 
 ## **FUTURE ASPIRATIONS.**
 These include an online portal or client area to allow clients the access for online management of portflios held with WebLife. This would include a secure passord or  biometrically protected client area where various levels of service and functionality would be offered. This would further facilitate the 'returning user' element of the site. A futher refining of the design will be part of the ongoing application development in future. 
+
+Includng the functionality for an emailed form submission clarification for users. The option for users to sign up for regular news and service updates.
 
 Discovering what Bootstrap is has been enlightening as it would obviously make the whole process a little quicker and easier. However, having to complete all the code personally means that during this process I have gained experience of simply writing code and not relying on a Framework to do the heavy lifting, although I will be taking advantage of this where I can in future.
 
@@ -199,6 +201,7 @@ The following tools, pages and tutorials were invaluable in helping me complete 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GitHub](https://github.com/)
 - [Wix Logo Creator](https://www.wix.com/logo/maker) The site Logo.
+- [Google Fonts](https://fonts.google.com/) Poppins font.
 - [Font Awesome Icons](https://fontawesome.com/) Social media Icons.
 - [CSS- Tricks](https://css-tricks.com/) Link hover effect for navbar.
 - [Real Favicon Generator](https://realfavicongenerator.net/) Favicon design for cross platform functionality.
