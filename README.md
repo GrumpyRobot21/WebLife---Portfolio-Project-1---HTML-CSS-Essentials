@@ -179,7 +179,11 @@ Follow these instructions to create a clone of the repository within your local 
 The first iteration of this project was built without a proper uderstanding of the 'Mobile First' Developement concept. As a result it made it difficult to figure out the best approach to making the application responsive. Following engagement with Code Institute tutor support new concepts and ideas were discussed that helped resolve the decision to start again using some of the same design ideas but approaching the build from a new perspective. The end result was more responsive in its initial design from the ground up and as a result easier to complete than the first attempt.
 
 - ### **Bugs**
-Apart from the usual spelling mistakes and formatting to tidy up, a number of bugs were identified during the testing phase and updated. These included but were not exclusively, having to add titles and aria labelling to the contact form to avoid the issue of not having specific labels. Updating the main images from .png files to .webp format in order to reduce loading times and cacheing issues. Discovering redundant css styling while using the Chrome Developer tools but in the process understanding more about how these tools are extremely useful in the devlopment design and testing phase. 
+Apart from the usual spelling mistakes and formatting to tidy up, a number of bugs were identified during the testing phase and updated. These included but were not exclusively, having to add titles and aria labelling to the contact form to avoid the issue of not having specific labels **(The decision not to use labels in this instance was deliberate and in line with the specific design aspirations for the form layout.)**. 
+
+Updating the main images from .png files to .webp format in order to reduce loading times and cacheing issues. 
+
+Discovering redundant css styling while using the Chrome Developer tools but in the process understanding more about how these tools are extremely useful in the devlopment design and testing phase. 
 
 There will undoubtedly be other issues that I am currently unaware of and styling changes that I will make as I gain additional knowledge during the remaining course modules. It has been a very enjoyable albeit sometimes incredibly frustrating process but ultimately extremely rewarding and fun.
 
@@ -213,6 +217,6 @@ The following tools, pages and tutorials were invaluable in helping me complete 
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) CSS testing.
 - [Am I Responsive](https://ui.dev/amiresponsive) Responsiveness testing.
 - [Media Genesis Responsive Design Checker](https://responsivedesignchecker.com/) Responsiveness testing.
-- [Wave Accesiibilty testing tool](https://wave.webaim.org/) Accessibility and Contrast testing.
+- [Wave Accessibilty testing tool](https://wave.webaim.org/) Accessibility and Contrast testing.
 - [Code Institute Tutor Support](https://codeinstitute.net/ie/) Invaluable support and assistance. Excellent course material.
 - [Slack community](https://slack.com/intl/en-ie/) Community support, shared experience and motivation.
