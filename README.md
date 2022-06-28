@@ -144,7 +144,7 @@ The colour contrast was AAA rated.
 
 - ### **User Testing**
 
-Friends and family were the resource used to extensively test the usability of the web application. All page links and button functionality were tested including ascertaing that all social media links opened in separate tabs and that all action buttons and nav links were correctly configured and redirected the user to the correct page, as indicated.
+Friends and family were the resource used to extensively test the usability of the web application. All page links and button functionality were tested including ascertaining that all social media links opened in separate tabs and that all action buttons and nav links were correctly configured and redirected the user to the correct page, as indicated.
 
 ***
 ## **DEPLOYMENT.**
