@@ -58,15 +58,15 @@ The chosen font is a geometric sans serif typeface named Poppins. This is a mode
 
 ***
 
-## **USER JOURNEY.**
+## **USER STORY.**
 
-For the purposes of this journey our 'First time' user will be called 'Bob'. Bob is a young professional who has a great number of online profiles and accounts across many platforms. Like most of Bob's generation, Bob does a lot of things online for recreational, personal and business purposes.
+For the purposes of this story, our 'First time' user will be called 'Bob'. Bob is a young professional who has a great number of online profiles and accounts across many platforms. Like most of Bob's generation, Bob does a lot of things online for recreational, personal and business purposes.
 
 -  Bob has looked up the site because he wants to learn more about the importance of managing his online digital legacy and he is aware that he has a growing portfolio of online data and assets to keep under control. He lands on the home page and is immediately struck by the hero banner quote. This piques his interest and he continues to read down the page where he learns a little about the company and what it does for potential clients. On reaching the bottom of the page Bob sees the prominent button to learn more. The social media icons are also clear and on display so Bob can easily subscribe to his preferred platforms and follow the WebLife media pages to be kept up to date on the latest news and developments. Bob clicks on the button to learn more. PAGE AIM: To capture the users interest while presenting the user with clear and concise navigation choices and clearly defined social media links. 
 
 - Bob is now on the ABOUT US page. This page elaborates on the initial information encountered previously. Here Bob is now more aware of the issues faced by modern internet users and how there is a need to be more in control of their online assets. Bob is now intrigued, curious and genuinely interested in a no strings attached free consultation with an expert. Bob clicks on the prominent action button at the foot of the page to move deeper into the application. PAGE AIM: To provide more detailed information and drive a users curiosity with the perception of an issue that needs to be dealt with. The ultimate goal is to drive traffic to the CONTACT US page and get the user to engage positively by submitting the completed form.
 
-- Bob has now been taken to the CONTACT US submission form. He is unable to submit it until he has fully completed all of the fields. This is clearly indicated in a concise and helpful manner. Bob easily fills out the prerequisite information and submits the form. He is immediately informed that his message has been received and that an expert will be in touch within 24 hours. This pleases Bob and as Bob is interested in keeping up with relevant news he signs up to his preferred choice of social media accounts via the icons at the bottom of the page. PAGE AIM: To compel the user to complete the form and engage with the company directly. With the user filling in the form and submitting it the web application will have succeeded in it's primary purpose.
+- Bob has now been taken to the CONTACT US submission form. He is unable to submit it until he has fully completed all of the fields. This is clearly indicated in a concise and helpful manner. Bob easily fills out the prerequisite information and submits the form. He is immediately informed that his message has been received and that an expert will be in touch within 24 hours. This pleases Bob and, as Bob is interested in keeping up with relevant news, he signs up to his preferred choice of social media accounts via the icons at the bottom of the page. PAGE AIM: To compel the user to complete the form and engage with the company directly. With the user filling in the form and submitting it the web application will have succeeded in it's primary purpose.
 
 * ### **Returning Users.** 
 This site in its current form is designed specifically to generate new customer leads and drive traffic to the contact page where they engage directly with the company. As a result it is not yet fully developed for returning users. This functionality will be addressed in the 'Future Aspirations' section below.
@@ -181,7 +181,7 @@ The first iteration of this project was built without a proper uderstanding of t
 - ### **Bugs**
 Apart from the usual spelling mistakes and formatting to tidy up, a number of bugs were identified during the testing phase and updated. These included but were not exclusively, having to add titles and aria labelling to the contact form to avoid the issue of not having specific labels **(The decision not to use labels in this instance was deliberate and in line with the specific design aspirations for the form layout.)**. 
 
-Updating the main images from .png files to .webp format in order to reduce loading times and cacheing issues. 
+Updating the main images from .png files to .webp format in order to reduce loading times and caching issues. 
 
 Discovering redundant css styling while using the Chrome Developer tools but in the process understanding more about how these tools are extremely useful in the devlopment design and testing phase. 
 
@@ -192,7 +192,7 @@ There will undoubtedly be other issues that I am currently unaware of and stylin
 ## **FUTURE ASPIRATIONS.**
 These include an online portal or client area to allow clients the access for online management of portflios held with WebLife. This would include a secure passord or  biometrically protected client area where various levels of service and functionality would be offered. This would further facilitate the 'returning user' element of the site. A futher refining of the design will be part of the ongoing application development in future. 
 
-Includng the functionality for an emailed form submission clarification for users. The option for users to sign up for regular news and service updates.
+Including the functionality for an emailed form submission clarification for users. The option for users to sign up for regular news and service updates.
 
 Discovering what Bootstrap is has been enlightening as it would obviously make the whole process a little quicker and easier. However, having to complete all the code personally means that during this process I have gained experience of simply writing code and not relying on a Framework to do the heavy lifting, although I will be taking advantage of this where I can in future.
 
