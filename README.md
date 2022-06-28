@@ -136,7 +136,7 @@ Mobile
 
 - ### **Contrast/ Accessibility Testing**
 
-The [Wave Accesiibilty testing tool](https://wave.webaim.org/) was used to check to test the page contrast and accessibilty of the application. 
+The [Wave Accessibilty testing tool](https://wave.webaim.org/) was used to check to test the page contrast and accessibilty of the application. 
 
 The colour contrast was AAA rated.
 
