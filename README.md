@@ -30,16 +30,27 @@ The footer has been designed to be informative and simple in it's presentation. 
 All four pages follow the same color scheme and design concept. The feel of the site has been specifically created to portray a clean, competent and efficient experience that conveys knowledge and professionalism to the user. All page images are related to either the online environment described in the page content or relate to the description of services. 
 
  1. #### **Home Page.**
+ <p align="center">
+  <img src="assets/images/home1.png"?raw=true alt="image of the home page"></p>
+  <p align="center">
+  <img src="assets/images/home2.png"?raw=true alt="image of the home page"></p>
  Below the navbar are the hero Image and an overlayed attention grabbing quote. These have been designed to immediately capture the users interest and draw them into the following paragraph. The core business services are described underneath the introductory paragraph followed by a large bold action button to take them further into the site for more detailed information.
 
  2. #### **About Page.**
+ <p align="center">
+  <img src="assets/images/about1.png"?raw=true alt="image of the about us page"></p>
+  <p align="center">
+  <img src="assets/images/about2.png"?raw=true alt="image of the about us page"></p>
 Here the user is further educated on the issues facing the majority of the world regarding their online legacy. While describing the issues at hand the user is also stimulated to do something about it and encouraged to discuss the possibilities further with WebLife. The action button at the bottom of the page is large and bold to encourage the user to move onto the next stage and schedule a free consultation.
 
  3. #### **Contact Page.**
-
+<p align="center">
+  <img src="assets/images/contact1.png"?raw=true alt="image of the contact page"></p>
 This is deliberately simple and clean in it's design. The user has only to fill in the details and submit the form to schedule their consultation. With the completion of this action the purpose of the web app has been fulfilled. 
 
 3. #### **Thank you Page.**
+<p align="center">
+  <img src="assets/images/thanks1.png"?raw=true alt="image of the contact page"></p>
 This is a simple thank you page to confirm that the users contact page form submission has been completed and to reassure them that their consultant will be in touch within a predetermined time limit. There is an action button to return to the home page so the user has the option to re-read the site information.
 
 ***
@@ -73,14 +84,20 @@ This site in its current form is designed specifically to generate new customer 
 
 ***
 ## **WIREFRAMES.**
-For the three main pages the wireframe preliminary layout design can be seen below. This were created using the wireframe tool [Balsamiq](https://balsamiq.com/):
+For the three main pages the wireframe preliminary layout design can be seen below. These were created using the wireframe tool [Balsamiq](https://balsamiq.com/):
 
 - ### **Home** 
-![WebLife](/assets/images/WL_Home.png)
+<p align="center">
+  <img src="assets/images/WL_Home.png"?raw=true alt="wireframe design for home page"></p> 
+
 - ### **About** 
-![WebLife](/assets/images/WL_About.png)
+<p align="center">
+  <img src="assets/images/WL_About.png"?raw=true alt="wireframe design for home page"></p> 
+
 - ### **Contact** 
-![WebLife](/assets/images/WL_Contact.png)
+<p align="center">
+  <img src="assets/images/WL_Contact.png"?raw=true alt="wireframe design for home page"></p> 
+
 ***
 ## **TESTING.**
 - ### **HTML Testing**
