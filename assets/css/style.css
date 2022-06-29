@@ -231,7 +231,6 @@ h1 {
   border: 2px solid white;
   border-radius: 1%;
   width: 400px;
-  height: 100%;
 }
 
 .split {
@@ -484,3 +483,4 @@ textarea::placeholder {
     margin-left: 2em;
   }
 }
+
