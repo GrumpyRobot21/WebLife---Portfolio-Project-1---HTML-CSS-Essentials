@@ -1,19 +1,43 @@
 # **[WebLife Digital Legacy Management](https://grumpyrobot21.github.io/WebLife---Portfolio-Project-1---HTML-CSS-Essentials/)**
+<p id="home"></p>
 
 ## **Milestone Portfolio Project 1 - HTML /CSS Essentials - Code Institute Full Stack Developer Diploma.**
 
 <p align="center">
   <img src="assets/images/WebLife-screencap.png"?raw=true alt="responsive web design"></p>
 
+
+## Table of contents
+
+- <a href="#intro">Introduction</a>
+- <a href="#dg">Design Goals</a>
+- <a href="#df">Design Features</a>
+- <a href="#us">User Story</a>
+- <a href="#wf">Wireframes</a>
+- <a href="#test">Testing</a>
+- <a href="#dep">Deployment</a>
+- <a href="#pib">Previous Iterations and Bugs</a>
+- <a href="#fa">Future Aspirations</a>
+- <a href="#tools">Tools used and Coding Inspiration</a>
+
+
+<p id="intro"></p>  
+<p align="right"><a href="#home">Top of page</a></p>
+
 ## **INTRODUCTION.**
 
 This web application has been developed in order to stimulate discussion around the topic of what happens to our online data after we are no longer around to look after it. The website represents a fictional consultancy that offers to manage clients digital legacies prior to and in the event of their deaths. To view the full website please use the clickable link via the heading at the top of this page or alternatively, click on the following link to access the site: [WebLife Digital Legacy Management](https://grumpyrobot21.github.io/WebLife---Portfolio-Project-1---HTML-CSS-Essentials/)
+
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="dg"></p>
 
 ## **DESIGN GOALS.**
 
 The aim was to create a streamlined site with two specific goals in mind. The first goal is purely a cognitive one, encourage users to consider this important topic in todays increasingly online environment. The second goal is entirely a functional and business related one. Namely, use the site design to funnel users towards booking a consultation by enticing and guiding them towards the contact page using visual stimulation and robust, clear and uncluttered site navigation.
 
 ***
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="df"></p>
 
 ## **DESIGN FEATURES.**
 * ### **Navigation Bar.**
@@ -68,6 +92,8 @@ These two colors provide a high level of contrast for users with impaired vison,
 The chosen font is a geometric sans serif typeface named Poppins. This is a modern and clean font that is easy and clear to interpret as well as adding to the modern design ethos of the site. This is the official font description courtesy of the google fonts page "Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. With support for the Devanagari and Latin writing systems, it is an internationalist take on the genre."
 
 ***
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="us"></p>
 
 ## **USER STORY.**
 
@@ -83,6 +109,9 @@ For the purposes of this story, our 'First time' user will be called 'Bob'. Bob 
 This site in its current form is designed specifically to generate new customer leads and drive traffic to the contact page where they engage directly with the company. As a result it is not yet fully developed for returning users. This functionality will be addressed in the 'Future Aspirations' section below.
 
 ***
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="wf"></p>
+
 ## **WIREFRAMES.**
 For the three main pages the wireframe preliminary layout design can be seen below. These were created using the wireframe tool [Balsamiq](https://balsamiq.com/):
 
@@ -99,6 +128,9 @@ For the three main pages the wireframe preliminary layout design can be seen bel
   <img src="assets/images/WL_Contact.png"?raw=true alt="wireframe design for home page"></p> 
 
 ***
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="test"></p>
+
 ## **TESTING.**
 - ### **HTML Testing**
 The following test results were achieved for the individual pages (index.html, about.html, contact.html & thankyou.html) using the [W3C Markup Validation Service](https://validator.w3.org/) 
@@ -164,6 +196,9 @@ The colour contrast was AAA rated.
 Friends and family were the resource used to extensively test the usability of the web application. All page links and button functionality were tested including ascertaining that all social media links opened in separate tabs and that all action buttons and nav links were correctly configured and redirected the user to the correct page, as indicated.
 
 ***
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="dep"></p>
+
 ## **DEPLOYMENT.**
 The most recent iteration of the WebLife application has been deployed via Github pages. The following instructions clarify the process.
 
@@ -192,6 +227,9 @@ Follow these instructions to create a clone of the repository within your local 
 6. Type `git clone`, and then paste the specific URL you copied in Step 3.
 
 ***
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="pib"></p>
+
 ## **PREVIOUS ITERATIONS AND BUGS.**
 The first iteration of this project was built without a proper uderstanding of the 'Mobile First' Developement concept. As a result it made it difficult to figure out the best approach to making the application responsive. Following engagement with Code Institute tutor support new concepts and ideas were discussed that helped resolve the decision to start again using some of the same design ideas but approaching the build from a new perspective. The end result was more responsive in its initial design from the ground up and as a result easier to complete than the first attempt.
 
@@ -206,12 +244,18 @@ There will undoubtedly be other issues that I am currently unaware of and stylin
 
 ***
 
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="fa"></p>
+
 ## **FUTURE ASPIRATIONS.**
 These include an online portal or client area to allow clients the access for online management of portflios held with WebLife. This would include a secure passord or  biometrically protected client area where various levels of service and functionality would be offered. This would further facilitate the 'returning user' element of the site. A futher refining of the design will be part of the ongoing application development in future. 
 
 Including the functionality for an emailed form submission clarification for users. The option for users to sign up for regular news and service updates.
 
 Discovering what Bootstrap is has been enlightening as it would obviously make the whole process a little quicker and easier. However, having to complete all the code personally means that during this process I have gained experience of simply writing code and not relying on a Framework to do the heavy lifting, although I will be taking advantage of this where I can in future.
+
+<p align="right"><a href="#home">Top of page</a></p>
+<p id="tools"></p>
 
 ## **TOOLS USED AND CODING INSPIRATION.**
 The following tools, pages and tutorials were invaluable in helping me complete this project:
